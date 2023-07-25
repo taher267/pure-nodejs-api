@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
